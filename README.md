@@ -10,10 +10,8 @@ Summarise is a powerful tool that transforms YouTube videos into easily digestib
 - Display video thumbnails
 - Responsive design with a dark mode interface
 
-## Tech Stack
+## Tech Stacks I worked on
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Groq API with Llama 3](https://groq.com/)
 - [Deepgram API](https://deepgram.com/)
